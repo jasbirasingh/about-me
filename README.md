@@ -2,6 +2,7 @@
 
 ## Education
 M.S., Industrial Engineering | Georgia Institute of Techonoly (_May 2022_)
+
 B.S., Indusdtrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
@@ -15,10 +16,19 @@ B.S., Indusdtrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 - Lead and supported projects focused on improving the manufacturing site's door-to-door supply chain operations and costs.
 
 ## Projects
+
+The following projects were developed during my MS in Industrial Engeneering at Gerogia Institute of Techonology.
+
 **Customer Suscription Cancellation Preditiability** 
-- Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer suscription cancellations of a Telecommunicatiosn Company. Data is publicly available at Kaggle.
+
+Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer suscription cancellations of a Telecommunicatiosn Company. Data is publicly available at Kaggle.
 
 **The African Tanker Problem**
-- Developed a Descrete Simulation Model with Arena that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
 
-**
+Developed a Descrete Simulation Model with Arena Simulation Software that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
+
+**Inbound/ Outbound Truck Operations Modelling and Improvement**
+
+Developed This project is concerned with the simulation of truck activities in a high-throughput warehouse facility. The goal is to improve
+performance metrics such as the amount of time a truck is in the
+facility
