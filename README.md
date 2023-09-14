@@ -7,28 +7,27 @@ B.S., Indusdtrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
-- Responsible for designing, analyzing, and optimizing Robotic Sortatation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
+- Responsible for designing, analyzing, and optimizing Robotic Sortation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
 
 **Technical Process Engineer @ GlaxoSmithKline (_June 2020 – Dec 2020_)**
-- Lead and suppored technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.Lead and worked in technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.
+- Lead and supported technical projects focused on improving the manufacturing site's preparedness, reliability, and costs. Lead and worked in technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.
 
 **Process & Quality Engineering Future Leader GMS @ GlaxoSmithKline (_May 2017 – May 2020_)**
 - Lead and supported projects focused on improving the manufacturing site's door-to-door supply chain operations and costs.
 
 ## Projects
 
-The following projects were developed during my MS in Industrial Engeneering at Gerogia Institute of Techonology.
+The following projects were developed during my MS in Industrial Engineering at Georgia Institute of Technology.
 
-**Customer Suscription Cancellation Preditiability** 
+**Customer Subscription Cancellation Predictability** 
 
-Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer suscription cancellations of a Telecommunicatiosn Company. Data is publicly available at Kaggle.
+Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer subscription cancellations of a Telecommunications Company. Data is publicly available at Kaggle.
 
 **The African Tanker Problem**
 
-Developed a Descrete Simulation Model with Arena Simulation Software that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
+Developed a Discrete Simulation Model with Arena Simulation Software that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
 
 **Inbound/ Outbound Truck Operations Modelling and Improvement**
 
-Developed This project is concerned with the simulation of truck activities in a high-throughput warehouse facility. The goal is to improve
-performance metrics such as the amount of time a truck is in the
-facility
+Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
+
