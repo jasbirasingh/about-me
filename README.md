@@ -10,7 +10,7 @@ B.S., Indusdtrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 - Responsible for designing, analyzing, and optimizing Robotic Sortation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
 
 **Technical Process Engineer @ GlaxoSmithKline (_June 2020 – Dec 2020_)**
-- Lead and supported technical projects focused on improving the manufacturing site's preparedness, reliability, and costs. Lead and worked in technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.
+- Lead and supported technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.
 
 **Process & Quality Engineering Future Leader GMS @ GlaxoSmithKline (_May 2017 – May 2020_)**
 - Lead and supported projects focused on improving the manufacturing site's door-to-door supply chain operations and costs.
@@ -30,4 +30,6 @@ Developed a Discrete Simulation Model with Arena Simulation Software that was ab
 **Inbound/ Outbound Truck Operations Modelling and Improvement**
 
 Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
+
+
 
