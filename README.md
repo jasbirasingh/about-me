@@ -1,7 +1,7 @@
 # Jasbir Alina Singh Arauz
 
 ## Education
-M.S., Industrial Engineering | Georgia Institute of Techonoly (_May 2022_)
+M.S., Industrial Engineering | Georgia Institute of Technology (_May 2022_)
 
 B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
@@ -15,7 +15,7 @@ B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 **Process & Quality Engineering Future Leader GMS @ GlaxoSmithKline (_May 2017 – May 2020_)**
 - Lead and supported projects focused on improving the manufacturing site's door-to-door supply chain operations and costs.
 
-## Projects
+## Academic Projects
 
 The following projects were developed during my MS in Industrial Engineering at Georgia Institute of Technology.
 
@@ -31,5 +31,6 @@ Developed a Discrete Simulation Model with Arena Simulation Software that was ab
 
 Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
 
+**Cyber-Physical Systems Security**
 
-
+Modelled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimiced attacks to the System were modelled using Time-Series models (Prophet, ARIMA) whereas different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks.
