@@ -3,7 +3,7 @@
 ## Education
 M.S., Industrial Engineering | Georgia Institute of Techonoly (_May 2022_)
 
-B.S., Indusdtrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
+B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
