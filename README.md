@@ -20,16 +20,13 @@ B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 The following projects were developed during my MS in Industrial Engineering at Georgia Institute of Technology.
 
 **Customer Subscription Cancellation Predictability** 
-
-Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer subscription cancellations of a Telecommunications Company. Data is publicly available at Kaggle.
+- Developed, compared and analyzed the performance of three supervised learning models (linear regression, logistic regression, and decision tree) to predict customer subscription cancellations of a Telecommunications Company. Data is publicly available at Kaggle.
 
 **The African Tanker Problem**
-
-Developed a Discrete Simulation Model with Arena Simulation Software that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
+- Developed a Discrete Simulation Model with Arena Simulation Software that was able to accurately represent the problem from Law (2015). This problem describes the operations from a port in Africa which loads different types of tankers with oil. Ran additional simulations to suggest improvements to the port operations.
 
 **Inbound/ Outbound Truck Operations Modelling and Improvement**
-
-Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
+- Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
 
 **Cyber-Physical Systems Security**
 
