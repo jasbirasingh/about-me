@@ -29,5 +29,4 @@ The following projects were developed during my MS in Industrial Engineering at 
 - Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.  
 
 **Cyber-Physical Systems Security**
-
-Modelled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimiced attacks to the System were modelled using Time-Series models (Prophet, ARIMA) whereas different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks.
+- Modelled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimiced attacks to the System were modelled using Time-Series models (Prophet, ARIMA) whereas different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks.
