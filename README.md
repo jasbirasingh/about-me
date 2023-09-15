@@ -3,8 +3,8 @@
  I am an experienced Industrial Engineer in Continuous Improvement, Project Management, and Data Analytics.
 
 ## Education
-- M.S., Industrial Engineering - Georgia Institute of Technology (_May 2022_)
-- B.S., Industrial Engineering - Universidad Santa Maria La Antigua (_July 2017_) 
+- M.S., Industrial Engineering | Georgia Institute of Technology (_May 2022_) | Fulbright Scholar
+- B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_) | Magna Cum Laude
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – Present_)**
