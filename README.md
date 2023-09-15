@@ -33,11 +33,11 @@ The following projects were developed during my MS in Industrial Engineering at 
 - Modelled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimiced attacks to the System were modelled using Time-Series models (Prophet, ARIMA) whereas different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks.
 
 ## Research Projects
-- Worked alongside Assistant Professor Gian-Gabriel Garcia, PhD at Georgia Tech on developing descriptive statistics and initial predictive models for concussion management in High School Football Athletes.
+- Worked alongside Assistant Professor Gian-Gabriel Garcia, PhD at Georgia Tech on developing descriptive statistics and initial predictive models for concussion management in High School Athletes (Fall 2021 and Spring 2022).
 
 ## Certifications
 - The Complete SQL Bootcamp: Go from Zero to Hero | Udemy (September 2023)
--	Engineering Leadership Certificate | Cornell University through eCornell (June 2020)
+-	Engineering Leadership Certificate | eCornell (June 2020)
 -	Lean Six Sigma Green Belt Certification | University of Michigan (March 2020)
--	Project Management Certificate | Quality Leadership University/PMC College (Apr 2019)
+-	Project Management Certificate | Quality Leadership University (Apr 2019)
 
