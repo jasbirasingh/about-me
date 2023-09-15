@@ -36,7 +36,7 @@ The following projects were developed during my MS in Industrial Engineering at 
 - Worked alongside Assistant Professor Gian-Gabriel Garcia, PhD at Georgia Tech on developing descriptive statistics and initial predictive models for concussion management in High School Athletes (Fall 2021 and Spring 2022).
 
 ## Certifications
-- The Complete SQL Bootcamp: Go from Zero to Hero - Udemy (September 2023)
+- The Complete SQL Bootcamp: Go from Zero to Hero - Udemy (Sep 2023)
 - Engineering Leadership Certificate - eCornell (June 2020)
 - Lean Six Sigma Green Belt Certification - University of Michigan (March 2020)
 - Project Management Certificate - Quality Leadership University (Apr 2019)
