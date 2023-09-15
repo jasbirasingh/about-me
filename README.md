@@ -30,7 +30,7 @@ The following projects were developed during my MS in Industrial Engineering at 
 - Developed a Discrete Simulation Model of the inbound/ outbound truck operations in a high-throughput warehouse facility. Three models with different number of resources and process paths were developed to evaluate which provided the highest operational throughput. Performed a one-way ANOVA analysis to determine if the models were significantly different.
 
 **Cyber-Physical Systems Security**
-- Modeled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimicked attacks to the System were modeled using Time-Series models (Prophet, ARIMA). Different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks and evaluated based on their accuracy.
+- Modeled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimicked attacks to the System were modeled using Time-Series models (Prophet, ARIMA). Different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks which were evaluated based on their accuracy.
 
 ## Research Projects
 - Worked alongside Assistant Professor Gian-Gabriel Garcia, PhD at Georgia Tech on developing descriptive statistics and initial predictive models for concussion management in High School Athletes (Fall 2021 and Spring 2022).
