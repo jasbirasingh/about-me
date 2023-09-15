@@ -1,8 +1,10 @@
 # Jasbir Alina Singh Arauz
- 
+
+ Experienced Industrial Engineer in Continuous Improvement Methodologies, Project Management, and Data Analytics.
+
 ## Education
-M.S., Industrial Engineering | Georgia Institute of Technology (_May 2022_)
-B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
+- M.S., Industrial Engineering | Georgia Institute of Technology (_May 2022_)
+- B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
@@ -29,3 +31,10 @@ The following projects were developed during my MS in Industrial Engineering at 
 
 **Cyber-Physical Systems Security**
 - Modelled a Cyber-Physical System cyber-attack and detection system through mathematical models using MATLAB Simulink. Testing Data that mimiced attacks to the System were modelled using Time-Series models (Prophet, ARIMA) whereas different detection mechanisms were developed from supervised learning models such as Logistic Regression, Support Vector Machines and Deep Neural Networks.
+
+## Certifications
+- The Complete SQL Bootcamp: Go from Zero to Hero | Udemy (September 2023)
+-	Engineering Leadership Certificate | Cornell University through eCornell (June 2020)
+-	Lean Six Sigma Green Belt Certification | University of Michigan (March 2020)
+-	Project Management Certificate | Quality Leadership University/PMC College (Apr 2019)
+
