@@ -1,6 +1,6 @@
 # Jasbir Alina Singh Arauz
 
- I am an experienced Industrial Engineer in Continuous Improvement, Project Management, Manufacturing, and Data Analytics.
+ I am an experienced Industrial Engineer in Continuous Improvement, Project Management, and Data Analytics.
 
 ## Education
 - M.S., Industrial Engineering - Georgia Institute of Technology (_May 2022_)
