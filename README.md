@@ -7,7 +7,7 @@
 - B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
-**Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
+**Solutions Design Engineer @ Amazon Robotics (_May 2022 – Present_)**
 - Responsible for designing, analyzing, deploying, and optimizing Robotic Sortation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
 
 **Technical Process Engineer @ GlaxoSmithKline (_June 2020 – Dec 2020_)**
