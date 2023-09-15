@@ -1,8 +1,8 @@
 # Jasbir Alina Singh Arauz
-
+ 
 ## Education
-- M.S., Industrial Engineering | Georgia Institute of Technology (_May 2022_)
-- B.S., Industrial Engineering | Universidad Santa Maria La Antigua (_July 2017_)
+- M.S., Industrial Engineering '|' Georgia Institute of Technology (_May 2022_)
+- B.S., Industrial Engineering '|' Universidad Santa Maria La Antigua (_July 2017_)
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
