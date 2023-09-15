@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Solutions Design Engineer @ Amazon Robotics (_May 2022 – August 2023_)**
-- Responsible for designing, analyzing, and optimizing Robotic Sortation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
+- Responsible for designing, analyzing, deploying, and optimizing Robotic Sortation Solutions for the Amazon Fulfillment Network in North America (US and Canada) and Europe.
 
 **Technical Process Engineer @ GlaxoSmithKline (_June 2020 – Dec 2020_)**
 - Lead and supported technical projects focused on improving the manufacturing site's preparedness, reliability, and costs.
